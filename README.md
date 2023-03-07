@@ -15,4 +15,4 @@ I'm on the 3/5 stage of the college, growing up with Javascript frameworks
 ---
 ### 📊 Stats
 [![Gaturama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
+[![Top Langs]([dark]: https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darke)](https://github.com/KaduFloresta/github-readme-stats)
