@@ -17,7 +17,7 @@ I'm on the 3/5 stage of the college, growing up with Javascript frameworks
 
 ### 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama)](https://github.com/Gaturama/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama)](https://github.com/Gaturama/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama)](https://github.com/Gaturama/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama)](https://github.com/Gaturama/github-readme-stats)
 
 
 
