@@ -5,9 +5,7 @@ I'm on the 3/5 stage of the college, growing up with Javascript frameworks
 - Learning TypeScript, Python OOP and OOP C#
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama)](https://github.com/Gaturama/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true&theme=dark)
 
 ---
 ### 🧰 Languages and Tools
