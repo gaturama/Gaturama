@@ -5,6 +5,7 @@ I'm on the 3/5 stage of the college, growing up with Javascript frameworks
 - Learning TypeScript, Python OOP and OOP C#
 
 ---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
