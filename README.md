@@ -1,7 +1,7 @@
 ### Gabriel **`System Analyst Developer Student`**
 
-I'm on the 3/5 stage of the college, growing up with Javascript frameworks
-- Learning TypeScript, Python OOP and OOP C#
+I'm on the 3/5 stage of the college, growing up with OPP C#
+- Learning TypeScript and Python OOP 
 
 ---
 
