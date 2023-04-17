@@ -1,7 +1,7 @@
 ### Gabriel **`System Analyst Developer Student`**
 
 I'm on the 3/5 stage of the college, growing up with OOP C#
-- Learning TypeScript and Python OOP 
+- Learning TypeScript, Python OOP and JavaScript  
 
 ---
 
@@ -20,5 +20,3 @@ I'm on the 3/5 stage of the college, growing up with OOP C#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&layout=compact&theme=github_dark)](https://github.com/Gaturama/github-readme-stats)
-
-![Snake animation](https://github.com/ypek/ypek/blob/output/github-contribution-grid-snake.svg)
