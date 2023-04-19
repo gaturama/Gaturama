@@ -21,4 +21,4 @@ I'm on the 3/5 stage of the college, growing up with OOP C#
 ### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&hide=javascript,html&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&layout=compact&theme=gotham)](https://github.com/Gaturama/github-readme-stats)
