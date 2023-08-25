@@ -1,8 +1,10 @@
 ### Hi, Gabriel here! 
 
 I'm **`Analysis & Systems Development Student`** 
-- Learning JavaScript and Python OOP
 
+Now, I'm on 4/5 stage from college!
+- Learning Javascript, CSS e HTML
+- and growing up with Python OOP
 ---
 
 ### 🧰 Languages and Tools
