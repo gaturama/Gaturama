@@ -1,4 +1,4 @@
-### Gabriel **`System Analyst Developer Student`**
+### Gabriel **`Analysis & Systems Development Student`**
 
 I'm on the 4/5 stage of the college, growing up with JavaScript
 - Learning Python OOP and TypeScript
