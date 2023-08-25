@@ -1,5 +1,4 @@
 ### Hi, Gabriel here! 
-**`Analysis & Systems Development Student`**
 
 I'm **`Analysis & Systems Development Student`** 
 - Learning JavaScript and Python OOP
