@@ -22,5 +22,5 @@ Now, I'm on 4/5 stage from college!
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&layout=compact)](https://github.com/Gaturama/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaturama&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaturama&layout=compact&theme=gotham)](https://github.com/Gaturama/github-readme-stats)
