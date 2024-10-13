@@ -1,10 +1,11 @@
 ### Hi, Gabriel here! 
 
-I'm **`Analysis & Systems Development Student`** 
+Developing skills in multiple programming languages!
 
-Now, I'm on 5/5 stage from college!
-- Learning React 
-- and growing up with JavaScript
+- 20 years old
+- Dev. Studant
+- Gaturamma is my nickname, feel free to call me that.
+
 ---
 ### 🧰 Languages and Tools
 
