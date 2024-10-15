@@ -1,6 +1,8 @@
-### Hi, Gabriel here! 
+## Hi, Gabriel here! 
 
-Developing skills in multiple programming languages!
+### Developing skills in multiple programming languages!
+
+- Front-End Dev.
 ---
 ### 🧰 Languages and Tools
 
@@ -13,8 +15,8 @@ Developing skills in multiple programming languages!
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-
 #
+
 ---
 
 ### 📊 Stats
