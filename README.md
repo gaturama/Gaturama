@@ -1,11 +1,6 @@
 ### Hi, Gabriel here! 
 
 Developing skills in multiple programming languages!
-
-- 20 years old
-- Dev. Studant
-- Gaturamma is my nickname, feel free to call me that.
-
 ---
 ### 🧰 Languages and Tools
 
