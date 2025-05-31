@@ -2,7 +2,7 @@
 
 ### Developing skills in multiple programming languages!
 
-- Front-End Dev.
+- Web Developer.
 ---
 ### 🧰 Languages and Tools
 
