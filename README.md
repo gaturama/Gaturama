@@ -2,7 +2,7 @@
 
 ### Developing skills in multiple programming languages!
 
-- Web Developer.
+- App Developer.
 ---
 ### 🧰 Languages and Tools
 
