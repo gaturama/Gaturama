@@ -2,7 +2,8 @@
 
 ### Developing skills in multiple programming languages!
 
-- App Developer.
+- I'm App Developer in Wideias Tecnologia
+- Now I'm improving my skills in Java to Android
 ---
 ### 🧰 Languages and Tools
 
